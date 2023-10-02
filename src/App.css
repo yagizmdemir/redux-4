@@ -1,0 +1,23 @@
+.App {
+
+}
+
+.form-group {
+	margin-right: 22px; 
+}
+h1 {
+	margin: 31px 0;
+	text-align: center;
+}
+
+hr {
+	background: white;
+}
+
+p::-moz-selection { /* Code for Firefox */
+  background: #7befb2;
+}
+
+p::selection {
+  background: #7befb2;
+}
